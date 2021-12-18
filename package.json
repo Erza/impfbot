@@ -1,0 +1,24 @@
+{
+  "name": "impfbot",
+  "version": "1.0.0",
+  "description": "Check available COVID-19 vaccine appointments and play a sound alert if they aren't all booked",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erza/impfbot.git"
+  },
+  "author": "Erza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erza/impfbot/issues"
+  },
+  "homepage": "https://github.com/Erza/impfbot#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "play-sound": "^1.1.3"
+  }
+}

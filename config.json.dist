@@ -1,0 +1,14 @@
+{
+	"appointments": [
+		{
+			"name": "Dienstag, 14. Dez. 2021",
+			"URL": "https://eveeno.com/142713734",
+			"bookedPhrase": "anmeldung beendet"
+		},
+		{
+			"name": "Samstag, 18. Dez. 2021",
+			"URL": "https://eveeno.com/639447956",
+			"bookedPhrase": "anmeldung beendet"
+		}
+	]
+}
